@@ -1,0 +1,42 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 50px;
+    color: blueviolet;
+    background-color: blanchedalmond;
+    width: 50%;
+}
+
+.blue-color {
+    color: blue;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 60%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: chocolate;
+    padding: 10px 40px;
+    color: blue;
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
